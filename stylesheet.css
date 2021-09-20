@@ -6,3 +6,8 @@ background-color: #0C75AB;
 
 #nav-td {width: 200px; text-align:center;)
 
+.banner {
+   display:block;
+   margi-left: auto;
+   margin right: auto;
+ }
